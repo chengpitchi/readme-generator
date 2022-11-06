@@ -12,6 +12,8 @@
   * [Usage](#usage)
   * [Contributing](#contributing)
   * [Test](#test)
+  * [Walkthrough Video](#walkthrough-video)
+  * [Screenshots](#screenshots)
   * [Questions](#questions)
   * [Github](#github)
   * [License](#license)
@@ -39,6 +41,18 @@
   ```
   User can test the application by typing "node index" in the terminal to run the application. 
   ```
+
+  ## Walkthrough Video
+  https://drive.google.com/file/d/1yI9H1-GVaLanOzskfqhZVzOPRkAu0bvY/view
+  
+  ## Screenshots
+  ![This is the first solution screenshot for README Generator](./assets/images/README-Generator-1.png)
+
+  ![This is the second solution screenshot for README Generator](./assets/images/README-Generator-2.png)
+
+  ![This is the third solution screenshot for README Generator](./assets/images/README-Generator-3.png)
+
+  ![This is the fourth solution screenshot for README Generator](./assets/images/README-Generator-4.png)
 
   ## Questions
   > Should you have any questions, please send email to chengpitchi@yahoo.com. 
